@@ -1,0 +1,5 @@
+# ansile-roles
+---
+- hosts: all
+  roles:
+      - facts
